@@ -4,7 +4,7 @@
 [![Valuation](https://img.shields.io/badge/Asset_Valuation-$250,000-00E676?style=for-the-badge)](https://gilbertinsurancedemo.netlify.app/)
 [![Jurisdiction](https://img.shields.io/badge/Coverage-50_States_%2B_574_Tribal_Nations-teal?style=for-the-badge)](https://gilbertinsurancedemo.netlify.app/)
 
-> **Target Software Acquisition Platform** prepared by **Apex InsurTech Systems** for **Gilbert Insurance Group** (David Gilbert, Executive Leadership).
+> **Enterprise Software Underwriting Platform** engineered exclusively for **Gilbert Insurance Group** (David Gilbert, Executive Leadership).
 
 ---
 
@@ -64,7 +64,7 @@ This repository houses the complete, standalone, production-ready **Cannabis & S
 
 ---
 
-## ⚖️ Proprietary Notice
+## ⚖️ Enterprise Notice
 
-Presented by **Apex InsurTech Systems** as a proprietary software acquisition asset for **Gilbert Insurance Group**.
+Engineered as a proprietary software underwriting platform for **Gilbert Insurance Group**.
 Valuation: **$250,000 Software Asset Buyout** or **$9,500/month SaaS License**.
